@@ -1,0 +1,18 @@
+id: c0b7c973-e7f8-490e-bc0d-04f7e7c8e09c
+title: Camera JPEG Quality Increase
+subtitle:
+description:
+version: 1.0.0
+category: 2
+game:
+  titleId: 0100F2C0115B6000
+  version:
+    - 1.2.0
+emulator:
+  - 1
+compatibility:
+  whitelist:
+  blacklist:
+author:
+  - { name: 'brileythomas1', link: https://www.github.com/brileythomas1}
+
